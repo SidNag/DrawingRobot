@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ur3/catkin_fbansal2/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/ur3/catkin_fbansal2/src/drivers/cv_camera/include/**",
+        "/home/ur3/catkin_fbansal2/src/drivers/camera_calibration/image_pipeline/depth_image_proc/include/**",
+        "/home/ur3/catkin_fbansal2/src/drivers/gazebo_ros_pkgs/gazebo_plugins/include/**",
+        "/home/ur3/catkin_fbansal2/src/drivers/gazebo_ros_pkgs/gazebo_ros/include/**",
+        "/home/ur3/catkin_fbansal2/src/drivers/gazebo_ros_pkgs/gazebo_ros_control/include/**",
+        "/home/ur3/catkin_fbansal2/src/drivers/camera_calibration/image_pipeline/image_proc/include/**",
+        "/home/ur3/catkin_fbansal2/src/drivers/camera_calibration/image_pipeline/stereo_image_proc/include/**",
+        "/home/ur3/catkin_fbansal2/src/drivers/ur3_driver/include/**",
+        "/home/ur3/catkin_fbansal2/src/drivers/universal_robot/ur_kinematics/include/**",
+        "/home/ur3/catkin_fbansal2/src/drivers/camera_calibration/usb_cam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
